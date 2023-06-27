@@ -1,5 +1,5 @@
 {
-  "name": "learn-graphql-fe",
+  "name": "learn-graphql",
   "dockerComposeFile": ["../docker-compose.yml"],
   "customizations": {
     "vscode": {
